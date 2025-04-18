@@ -16,6 +16,8 @@
 ### 1. Anonymous Public Chatting
 Users can send messages in a designated channel **completely anonymously**, with an optional pseudonym and custom profile image.
 
+![Anonymous Chat Feature](https://github.com/vmpyre/Project-V/blob/main/anon-chat/anon-chat-1.png)
+
 ---
 
 ### 2. Anonymous Inbox System
@@ -23,7 +25,7 @@ Send and receive **private** anonymous messages:
 - `/send-message` – Send an anonymous message to any user.
 - `/my-inbox` – View received anonymous messages.
 
-![Anonymous Inbox Feature](<INSERT_IMAGE_URL_OR_PATH>)
+![Anonymous Inbox Feature](https://github.com/vmpyre/Project-V/blob/main/anon-chat/anon-chat-3.png)
 
 ---
 
@@ -32,7 +34,7 @@ Empower decentralized, anonymous governance:
 - `/create-vote` – Admins initiate anonymous voting.
 - Votes show title, description, duration, and interactive buttons.
 
-![Anonymous DAO Voting Feature](<INSERT_IMAGE_URL_OR_PATH>)
+![Anonymous DAO Voting Feature](https://github.com/vmpyre/Project-V/blob/main/anon-chat/anon-chat-4.png)
 
 ---
 
@@ -45,7 +47,7 @@ Users personalize their anonymous identity using $anon:
 
 > $anon is a utility token airdropped to all NFT minters.
 
-![Profile Customization Feature](<INSERT_IMAGE_URL_OR_PATH>)
+![Profile Customization Feature](https://github.com/vmpyre/Project-V/blob/main/anon-chat/anon-chat-2.png)
 
 ---
 
